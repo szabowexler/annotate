@@ -1,0 +1,1 @@
+Playing around with coffeescript - make an easy tool for annotating web pages live.
